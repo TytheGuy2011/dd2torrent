@@ -6,7 +6,7 @@ on:
       
 env:
   name: "Despicable Me 4"
-  comment: "braflix"
+  comment: "breflix"
   url: "https://server.braflix.ru/download/aHR0cHM6Ly91c2E3LnNoZWd1Lm5ldC9mcmVlL3AxL21vdmllX21wNF9oMjY0LzIwMjQvNi85LzYzNTA5L21vdmllLjYzNTA5LjIwMjQuMTA4MHAuSDI2NC4yMDI0MDcwMzA3NTYwMi5tcDQ/S0VZMT0wVlNiSUlpRjIyQlNuUVFqbGh2QWhnJktFWTI9MTcyMDgyNDE5NSZLRVkzPTAmS0VZND13b3JsZCZLRVk1PURlc3BpY2FibGUuTWUuNC4yMDI0LjEwODBwLkNBTS5IMjY0LkxhdGluby5ZRy5ta3YmS0VZNz1mZWJib3hfZmlsZV9kb3dubG9hZF92MiZLRVk4PTA=?filename=RGVzcGljYWJsZSBNZSA0IDEwODBQLm1wNA=="
   file_name: "Despicable Me 4 1080P.mp4"
   piece_size: 20 # Check the README.md for recommended piece size
